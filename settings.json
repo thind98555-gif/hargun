@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "HARGUNTHIND.aternos.me",
-    "port": ,
+    "port": 38880,
     "version": "1.20.1",
     "try-creative": false
   },
